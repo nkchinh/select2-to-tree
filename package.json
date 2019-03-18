@@ -1,0 +1,22 @@
+{
+  "name": "select2-to-tree",
+  "version": "1.0.0",
+  "description": "Select2-to-Tree\r =======",
+  "main": "src/select2totree.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkchinh/select2-to-tree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkchinh/select2-to-tree/issues"
+  },
+  "homepage": "https://github.com/nkchinh/select2-to-tree#readme"
+}
